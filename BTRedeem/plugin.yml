@@ -1,0 +1,23 @@
+name: Redeem Kits
+version: 1_c
+main: org.hcraid.com.classicredeem.Main
+author: WarAuthor, danslayerx
+description: Kits and Redeems
+commands:
+   redeem:
+      description: Redeem
+   kit:
+      description: Kit
+      aliases: [kits,ekit,ekits]
+   setredeem:
+      description: Set redeems
+   setkit:
+      description: Set kits
+   delredeem:
+      description: Delete redeem
+   delkit:
+      description: Delete kit
+   rlist:
+      description: List redeems and kits
+   resetredeem:
+      description: List redeems and kits
